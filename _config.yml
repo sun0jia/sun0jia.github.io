@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "孙琳嘉"
-  pronouns         : "she/her" # example: "she/her"  
+  pronouns         :  # example: "she/her"  
   bio              : "nju智软"
   location         : "中国 江苏 苏州"
   employer         : "南京大学"
