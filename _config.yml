@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "孙琳嘉 / 主页"
+title                    : "Linjia Sun / HomePage"
 title_separator          : "-"
-name                     : &name "孙琳嘉"
-description              : &description "南京大学智软大三在读"
+name                     : &name "Linjia Sun"
+description              : &description "A student from the school of ISE,NJU."
 url                      : https://sun0jia.github.io # the base hostname & protocol for your site e.g. "https://sun0jia.github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sun0jia/sun0jia.github.io"
@@ -23,11 +23,11 @@ repository               : "sun0jia/sun0jia.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "孙琳嘉"
+  name             : "Linjia Sun"
   pronouns         :  # example: "she/her"  
-  bio              : "nju智软"
+  bio              : "NJU ISE"
   location         : "中国 江苏 苏州"
-  employer         : "南京大学"
+  employer         : "Nanjing University"
   uri              : "https://sun0jia.github.io/"   # URL
   email            : "linjia.sun@smail.nju.edu.cn" 
 
