@@ -24,11 +24,11 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "孙琳嘉"
-  pronouns         : # example: "she/her"  
+  pronouns         : "she/her" # example: "she/her"  
   bio              : "nju智软"
   location         : "中国 江苏 苏州"
   employer         : "南京大学"
-  uri              : # URL
+  uri              : "https://sun0jia.github.io/"   # URL
   email            : "linjia.sun@smail.nju.edu.cn" 
 
   # Academic websites
