@@ -2,7 +2,7 @@
 title: "软件工程与计算2"
 collection: education
 type: "Undergraduate course"
-permalink: /education/SE1
+permalink: /education/SE2
 venue: "南京大学, 智能软件与工程学院"
 date: 2025-03-01
 location: "苏州, JiangSu"

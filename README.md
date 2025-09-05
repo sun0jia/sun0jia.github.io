@@ -1,7 +1,3 @@
-在写网页时 本地当时已经装好了 本地运行bundle exec jekyll serve就可以看到自己写的了
-
-
-
 # Academic Pages
 **Academic Pages is a GitHub Pages template for personal and professional portfolio-oriented websites.**
 
